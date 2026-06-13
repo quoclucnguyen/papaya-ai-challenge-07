@@ -1,0 +1,13 @@
+{
+  "member": {
+    "memberName": "Nguyen Van An",
+    "policyNumber": "PAP-2024-008431",
+    "memberId": "MBR-104-552",
+    "dateOfBirth": "1988-04-12"
+  },
+  "dependents": [
+    { "id": "DEP-01", "name": "Tran Thi Mai", "relationship": "Spouse", "dateOfBirth": "1990-09-23" },
+    { "id": "DEP-02", "name": "Nguyen Minh Khoa", "relationship": "Son", "dateOfBirth": "2015-02-18" },
+    { "id": "DEP-03", "name": "Nguyen Thao Vy", "relationship": "Daughter", "dateOfBirth": "2018-11-05" }
+  ]
+}
