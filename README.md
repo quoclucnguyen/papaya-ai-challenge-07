@@ -6,7 +6,7 @@ progress, full per-step validation and a review step with edit-in-place.
 
 - **Đề bài**: [AI_Challenge_07.md](./AI_Challenge_07.md) · **Plan & phân tích**: [PLAN.md](./PLAN.md)
 - **Stack**: React 19 + Vite + TypeScript + zod + Vitest (không backend — mock data toàn bộ)
-- **Live URL**: _(điền sau khi deploy lên Vercel/Netlify)_
+- **Live URL**: [https://papaya-ai-challenge-07.vercel.app](https://papaya-ai-challenge-07.vercel.app)
 
 ## Chạy local
 
